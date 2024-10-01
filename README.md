@@ -12,3 +12,4 @@ Aligning widgets
 ![GridView](image-2.png)
 ![ListVie](image-5.png)
 ![Stack](image-6.png)
+![Card](image-7.png)
